@@ -1,0 +1,11 @@
+<template name="fighters">
+	{{#each fighters}}
+		{{> fighter}}
+	{{/each}}
+</template>
+
+<template name="fighter">
+	<div class="fighter">
+		<p> {{name}} | att: {{att}} def: {{def}} str: {{str}} exp: {{exp}}</p>
+	</div>
+</template>

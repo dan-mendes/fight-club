@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"removeClass          (fn)  [C]"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"confi",
+				"configure                 (fn)   [E]"
+			],
+			[
+				"ya",
+				"yaksList       (obj) [C]"
+			],
+			[
+				"current",
+				"currentPomodoroTime"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"is",
+				"isServer                   (bool) [E]"
+			],
+			[
+				"find",
+				"findOne (fn)"
+			],
+			[
+				"parse",
+				"parseInt (fn)"
+			],
+			[
+				"postsL",
+				"postsList"
+			],
+			[
+				"u",
+				"userId"
+			],
+			[
+				"comment",
+				"commentAttributes (obj)"
+			],
+			[
+				"pos",
+				"postId"
+			],
+			[
+				"co",
+				"commentSubmittedErrors"
+			],
+			[
+				"sacha",
+				"sacha (?)"
+			],
+			[
+				"post",
+				"postAttributes (?)"
+			],
+			[
+				"errors",
+				"errors (obj)"
+			],
+			[
+				"posts",
+				"postSubmitErrors"
+			],
+			[
+				"postS",
+				"postSubmitErrors"
+			],
+			[
+				"user",
+				"userId (fn)"
+			],
+			[
+				"currn",
+				"currentPostId (?)"
+			],
+			[
+				"lo",
+				"loadingTemplate"
+			],
+			[
+				"requi",
+				"requireLogin (fn)"
+			],
+			[
+				"t",
+				"Template (fn)"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"cre",
+				"createElement (fn)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/fighters.html",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/events.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ls\nFighters = new Mongo.Collection('fighters');",
+			"file": "lib/collections.js",
+			"file_size": 44,
+			"file_write_time": 130828462897561757,
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/server.js",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/helpers.js",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/main.html",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/daniel/workspace/meteor/fight-club/server/server",
+		"/home/daniel/workspace/meteor/fight-club/lib/collections.js",
+		"/home/daniel/workspace/meteor/fight-club/client/events.js",
+		"/home/daniel/workspace/meteor/fight-club/client/helpers.js",
+		"/home/daniel/workspace/meteor/fight-club/client/main.html",
+		"/home/daniel/workspace/meteor/fight-club/client/fighters.html",
+		"/home/daniel/workspace/meteor/fight-club/server/server.js",
+		"/home/daniel/workspace/meteor/fight-club/index.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/lib/router.js",
+		"/home/daniel/workspace/meteor/tutorials/instagram/lib/collections.js",
+		"/home/daniel/workspace/meteor/tutorials/instagram/server/server.js",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/events.js",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/helpers.js",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/layout.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/login.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/profile.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/feed.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/navbar.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/image.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/main.html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/client/main-html",
+		"/home/daniel/workspace/meteor/tutorials/instagram/stylesheet/style.css",
+		"/home/daniel/workspace/meteor/pinterest/client/main.html",
+		"/home/daniel/workspace/meteor/pinterest/public/defaults.js",
+		"/home/daniel/workspace/meteor/pinterest/server/router.js",
+		"/home/daniel/workspace/meteor/pinterest/client/categories.html",
+		"/home/daniel/workspace/meteor/pinterest/client/header.html",
+		"/home/daniel/workspace/meteor/pinterest/client/books.html",
+		"/home/daniel/workspace/meteor/pinterest/client/book.html",
+		"/home/daniel/workspace/meteor/pinterest/lib/collections.js",
+		"/home/daniel/workspace/meteor/pinterest/server/server.js",
+		"/home/daniel/workspace/meteor/pinterest/client/helpers.js",
+		"/home/daniel/workspace/meteor/pinterest/stylesheet/style.css",
+		"/home/daniel/workspace/meteor/pinterest/layout.html",
+		"/home/daniel/workspace/meteor/pinterest/lib/router.js",
+		"/home/daniel/workspace/meteor/5whys/client/problems_all.html",
+		"/home/daniel/workspace/meteor/5whys/client/main.html",
+		"/home/daniel/workspace/meteor/5whys/client/problem_item.html",
+		"/home/daniel/workspace/meteor/5whys/client/problem_page.html",
+		"/home/daniel/workspace/meteor/5whys/lib/router.js",
+		"/home/daniel/workspace/meteor/5whys/lib/problems.js",
+		"/home/daniel/workspace/meteor/5whys/client/submit_problem.js",
+		"/home/daniel/workspace/meteor/5whys/client/submit_problem.html",
+		"/home/daniel/workspace/meteor/5whys/public/magic.css",
+		"/home/daniel/workspace/meteor/nback/main.html",
+		"/home/daniel/workspace/meteor/nback/stylesheet/style.css",
+		"/home/daniel/workspace/meteor/5whys/client/helpers.js",
+		"/home/daniel/workspace/meteor/5whys/stylesheet/submit_problem.html",
+		"/home/daniel/workspace/meteor/5whys/stylesheet/style.css",
+		"/home/daniel/workspace/meteor/5whys/lib/helpers.js",
+		"/home/daniel/workspace/meteor/tutorials/yakyak/client/yak_item.js",
+		"/home/daniel/workspace/meteor/yakyak/client/main.html",
+		"/home/daniel/workspace/meteor/yakyak/main.js",
+		"/home/daniel/workspace/meteor/yakyak/client/yak_page.html",
+		"/home/daniel/workspace/meteor/yakyak/client/yak_page.js",
+		"/home/daniel/workspace/meteor/yakyak/client/comment_submit.html",
+		"/home/daniel/workspace/meteor/yakyak/client/comment_submit.js",
+		"/home/daniel/workspace/meteor/yakyak/client/yak_submit.html",
+		"/home/daniel/workspace/meteor/yakyak/client/yak_submit.js",
+		"/home/daniel/workspace/meteor/yakyak/client/client.js",
+		"/home/daniel/workspace/meteor/yakyak/client/style.css",
+		"/home/daniel/workspace/meteor/yakyak/client/accounts.html",
+		"/home/daniel/workspace/meteor/yakyak/client/yak_item.html",
+		"/home/daniel/workspace/meteor/yakyak/client/yak_item.js",
+		"/home/daniel/workspace/meteor/yakyak/server/server.js",
+		"/home/daniel/workspace/meteor/yakyak/client/yaks_list.html",
+		"/home/daniel/workspace/meteor/yakyak/client/comment_item.html",
+		"/home/daniel/workspace/meteor/pomodoro/mobile-config.js",
+		"/home/daniel/workspace/meteor/pomodoro/client/style.css",
+		"/home/daniel/workspace/meteor/pomodoro/lib/environment.js",
+		"/home/daniel/workspace/meteor/pomodoro/client/pomodoro.js",
+		"/home/daniel/workspace/meteor/pomodoro/client/pomodoro.html",
+		"/home/daniel/workspace/meteor/pomodoro/client/index.html",
+		"/home/daniel/Workspace/Meteor/pomodoro/client/index.html",
+		"/home/daniel/Workspace/Meteor/pomodoro/client/style.css",
+		"/home/daniel/Workspace/Meteor/meteoro/client/index.html",
+		"/home/daniel/Workspace/Meteor/meteoro/client/style.css",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/client/index.html",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/client/main.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/lib/publications.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/lib/constants.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/lib/environment.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/lib/methods.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/server/publications.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/client/environment.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/server/lib/environment.js",
+		"/home/daniel/Workspace/Meteor/pomodoro/meteoro/client/index.js",
+		"/home/daniel/Workspace/Meteor/readinglist/client/subscriptions.js",
+		"/home/daniel/Workspace/Meteor/readinglist/lib/collections/books.js",
+		"/home/daniel/Workspace/Meteor/readinglist/server/fixtures.js",
+		"/home/daniel/Workspace/Meteor/readinglist/client/bookList.js",
+		"/home/daniel/Workspace/Meteor/readinglist/lib/routes.js",
+		"/home/daniel/Workspace/Meteor/readinglist/client/templates/insertBook.html",
+		"/home/daniel/Workspace/Meteor/readinglist/client/stylesheets/main.css",
+		"/home/daniel/Workspace/Meteor/readinglist/client/templates/includes/layout.html",
+		"/home/daniel/Workspace/Meteor/readinglist/client/templates/bookList.html",
+		"/home/daniel/Workspace/Meteor/readinglist/client/templates/bookItem.html",
+		"/home/daniel/Workspace/Meteor/readinglist/client/templates/header.html",
+		"/home/daniel/Workspace/Meteor/readinglist/client/main.html",
+		"/home/daniel/Workspace/Meteor/readinglist/client/readinglist.html",
+		"/home/daniel/Workspace/Meteor/readinglist/server/publications.js",
+		"/home/daniel/Workspace/Meteor/readinglist/lib/posts.js",
+		"/home/daniel/Workspace/Meteor/readinglist/lib/collections/books-js",
+		"/home/daniel/Workspace/Meteor/readinglist/readinglist.js",
+		"/home/daniel/Workspace/Meteor/readinglist/server/collections.js",
+		"/home/daniel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/posts/posts_list.js",
+		"/home/daniel/Workspace/Meteor/microscope/lib/collections/posts.js",
+		"/home/daniel/Workspace/Meteor/microscope/lib/posts.js",
+		"/home/daniel/Workspace/Meteor/microscope/client/helpers/errors.js",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/includes/errors.js",
+		"/home/daniel/Workspace/Meteor/microscope/client/main.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/includes/access_denied.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/posts/post_submit.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/posts/post_page.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/includes/header.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/application/layout.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/posts/posts_list.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/posts/post_item.html",
+		"/home/daniel/Workspace/Meteor/microscope/server/publications.js",
+		"/home/daniel/Workspace/Meteor/microscope/client/helpers/config.js",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/includes/loading.html",
+		"/home/daniel/Workspace/Meteor/microscope/client/main.js",
+		"/home/daniel/Workspace/Meteor/microscope/server/fixtures.js",
+		"/home/daniel/Workspace/Meteor/microscope/client/stylesheets/style.css",
+		"/home/daniel/Workspace/Meteor/microscope/client/stylesheets/styles.css",
+		"/home/daniel/Workspace/Meteor/microscope/client/templates/posts/posts_item",
+		"/home/daniel/Workspace/Meteor/readinglist/posts_list.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" Philosophiae Naturali",
+			"Router",
+			"postItem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/fighters.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/events.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/collections.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/helpers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fight-club.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 95.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
