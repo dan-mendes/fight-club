@@ -3,3 +3,6 @@ Template.fighters.helpers({
 		return Fighters.find();
 	}
 });
+
+Template.fighterProfile.helpers({
+});
